@@ -1,6 +1,6 @@
 <p align= 'center'> Hi,I'm Chatkul 🤣</p>
 
-#About me
+# About me
 -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
 ## Contact me
