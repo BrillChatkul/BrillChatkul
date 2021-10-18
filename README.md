@@ -1,5 +1,5 @@
 <div align= 'center'>
-<p font-size: 1000>Hi,I'm Chatkul 🤣</p>
+<p font-size: 100;>Hi,I'm Chatkul 🤣</p>
 </div>
 
 ## About me
