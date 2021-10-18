@@ -23,9 +23,9 @@ Hi,I'm Chatkul 🤣
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCellar&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
-<p>
-<a href="facebook.com/Billand.chatkul"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/600px-Facebook_Logo_%282019%29.png" alt="IG" height="40" style="vertical-align:top; padding:50px"></a>
-<a href="https://www.instagram.com/bchatkul/?hl=en"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="IG" height="40" style="vertical-align:top; padding:50px"></a>
+<p style="padding:50px">
+<a href="facebook.com/Billand.chatkul"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/600px-Facebook_Logo_%282019%29.png" alt="IG" height="40" style="vertical-align:top; margin:10px"></a>
+<a href="https://www.instagram.com/bchatkul/?hl=en"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="IG" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
 
 
