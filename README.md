@@ -2,10 +2,10 @@
 Hi,I'm Chatkul 🤣
 </h1>
 
-<p>About me</p>
+<p>About me 😊😊</p>
 -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
-## Lanuages and Tool
+## Lanuages and Tool🎓
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
 <img src="http://marcuscode.com/static_content/media/00/00/00/20/XLgCGHrYlAfWpY2_1000.png" alt="c#" height="40" style="vertical-align:top; margin:4px">
@@ -23,7 +23,7 @@ Hi,I'm Chatkul 🤣
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCellar&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact me
+## Contact me ♠️
 <p>
 <a href="https://www.facebook.com/Billand.chatkul/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/600px-Facebook_Logo_%282019%29.png" alt="IG" height="40" style="vertical-align:top; margin:10px"></a>
 <a href="https://www.instagram.com/bchatkul/?hl=en"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="IG" height="40" style="vertical-align:top; margin:10px"></a>
