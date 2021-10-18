@@ -7,8 +7,9 @@ Hi,I'm Chatkul 🤣
 
 ## Lanuages and Tool
 <p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> <!--Javascript-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> <!--Javascript-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
@@ -17,7 +18,10 @@ Hi,I'm Chatkul 🤣
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCellar&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
-[<img src="https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png" alt="logo Instagram Images @transparentpng.com" width='50px'/>][IG]
+<p align="center">
+
+</p>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="logo Instagram Images @transparentpng.com" width='50px'/>][IG]
 
 <!--
 **MisterCellar/MisterCellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
