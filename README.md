@@ -1,4 +1,4 @@
-<div align= 'center' font-size: '40px'>
+<div align= 'center' font-size: 100>
 Hi,I'm Chatkul 🤣
 </div>
 
