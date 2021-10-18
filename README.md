@@ -19,9 +19,9 @@ Hi,I'm Chatkul 🤣
 
 ## Contact me
 <p align="center">
-
-</p>
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="logo Instagram Images @transparentpng.com" width='50px'/>][IG]
+</p>
+
 
 <!--
 **MisterCellar/MisterCellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
