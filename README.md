@@ -7,8 +7,9 @@ Hi,I'm Chatkul 🤣
 
 ## Lanuages and Tool
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterCellar)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterCellar)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact me
 [<img src="https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png" alt="logo Instagram Images @transparentpng.com" width='50px'/>][IG]
