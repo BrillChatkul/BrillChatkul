@@ -18,9 +18,8 @@ Hi,I'm Chatkul 🤣
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCellar&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
-<p align="center">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="logo Instagram Images @transparentpng.com" width='50px'/>][IG]
-</p>
+
 
 
 <!--
