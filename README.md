@@ -27,7 +27,7 @@ Hi,I'm Chatkul 🤣
 <p>
 <a href="https://www.facebook.com/Billand.chatkul/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/600px-Facebook_Logo_%282019%29.png" alt="IG" height="40" style="vertical-align:top; margin:10px"></a>
 <a href="https://www.instagram.com/bchatkul/?hl=en"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="IG" height="40" style="vertical-align:top; margin:10px"></a>
-<a href="https://www.linkedin.com/in/chatkul-rattanarithikul-310827222/"> <img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="IG" height="80" style="vertical-align:top; margin:10px"></a>
+<a href="https://www.linkedin.com/in/chatkul-rattanarithikul-310827222/"> <img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="IG" height="60" style="vertical-align:top; margin:10px"></a>
 </p>
 
 
