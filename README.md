@@ -1,5 +1,4 @@
-# Hi,I'm Chatkul 🤣
-<br/>
+# <h1 style='text-align: center;'>Hi,I'm Chatkul 🤣</h1>
 
 ## About me
 -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
