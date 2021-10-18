@@ -1,4 +1,4 @@
-<div align= 'center'> #Hi,I'm Chatkul 🤣</div>
+<div align= 'center'> Hi,I'm Chatkul 🤣</div>
 ## About me
 -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
