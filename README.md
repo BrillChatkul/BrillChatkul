@@ -19,9 +19,9 @@ Hi,I'm Chatkul 🤣
 </p>
  
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterCellar&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrillChatkul&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCellar&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrillChatkul&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me ♠️
 <p>
