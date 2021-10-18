@@ -2,7 +2,7 @@
 Hi,I'm Chatkul 🤣
 </h1>
 
-<p>About me 😊😊</p>
+## About me 😊😊
 -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
 ## Lanuages and Tool🎓
