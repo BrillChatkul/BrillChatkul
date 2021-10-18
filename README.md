@@ -1,7 +1,6 @@
 <h1 align= 'center'> Hi,I'm Chatkul 🤣</h1>
 
-## About me
--I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+## About me -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
 ## Contact me
 [<img src="https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png" alt="logo Instagram Images @transparentpng.com" width='50px'/>][IG]
