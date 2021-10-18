@@ -4,6 +4,7 @@ Hi,I'm Chatkul 🤣
 
 ## About me
 -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+<br/>
 ## Contact me
 [<img src="https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png" alt="logo Instagram Images @transparentpng.com" width='50px'/>][IG]
 
