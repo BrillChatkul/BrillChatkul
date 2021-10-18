@@ -4,7 +4,7 @@
 -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
 
 ## Contact me
-[<img src="https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png" alt="logo Instagram Images @transparentpng.com" width='22px'/>][IG]
+[<img src="https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png" alt="logo Instagram Images @transparentpng.com" width='30px'/>][IG]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterCellar)](https://github.com/anuraghazra/github-readme-stats)
 
