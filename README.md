@@ -1,9 +1,18 @@
-### Hi,I'm Chatkul
--I'm currently studying for Bachelor of Engineering in Computer Engineering.
+### Hi,I'm Chatkul 🤣
+
+
+## About me
+-I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
+
+## Contact me
+You can find me on [![IG][https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png]][https://www.instagram.com/bchatkul/?hl=en].
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterCellar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **MisterCellar/MisterCellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
