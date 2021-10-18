@@ -1,6 +1,6 @@
-<h1 align= 'center' font-size: 100>
-Hi,I'm Chatkul 🤣
-</h1>
+<div align= 'center'>
+<p font-size: 1000>Hi,I'm Chatkul 🤣</p>
+</div>
 
 ## About me
 -I'm currently studying for Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
