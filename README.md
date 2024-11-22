@@ -4,7 +4,8 @@ Hi,I'm Chatkul 🤣
 
 ## About me 😊😊
 - Bachelor of Engineering in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.
-- Experience working on Frontend/Backend web application and automated testing
+- Currently working on Frontend/Backend web application and automated testing
+- Personal Experience on Game Development, Java Desktop Application and Microcontroller (STM32f429, FPGA and Arduino)
 
 ## Lanuages and Tool🎓
 <p>
